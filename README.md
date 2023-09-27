@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about creating clean and efficient 
 ## 🔥 Top Projects
 - [Project 1](link): BotKube Integration.
 - [Project 2](link): Create Github Repository together with Branch Protection
+- [Project 3](link): Creating Something Especial
 
 ## 📝 Blog
 - [My Tech Blog](link): Tips and tricks for efficient coding.
