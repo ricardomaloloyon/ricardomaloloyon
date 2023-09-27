@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about creating clean and efficient 
 - Container: Docker, Kubernetes
 
 ## 🔥 Top Projects
-- [Project 1](link): Brief description here.
+- [Project 1](link): BotKube Integration.
 - [Project 2](link): Brief description here.
 
 ## 📝 Blog
