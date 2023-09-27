@@ -1,7 +1,7 @@
 # Hello, I'm Ricardo Maloloy-on 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardomaloloyon&show_icons=true&theme=dark&count_private=true)
 
-Site Reliability Engineer | Open Source Enthusiast | Coffee Lover
+Site Reliability Engineer/DevOps Engineer | Open Source Enthusiast | Coffee Lover
 
 ## 🌱 Profile Overview
 Welcome to my GitHub profile! I'm passionate about creating clean and efficient code. You'll find a mix of personal projects and open-source contributions here.
