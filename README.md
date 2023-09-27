@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about creating clean and efficient 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rmaloloyon)
 - [Twitter](https://twitter.com/rickymaloy)
-- Email: rickymaloy@gmail.com
+- Email: ricardo.i.maloloyon@gmail.com
 
 ⚡ Fun Fact: I can solve a Rubik's Cube in under a minute!
 
